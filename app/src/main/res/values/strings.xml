@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="unit">Cm</string>
+    <string name="femaletext">Žensko</string>
+    <string name="age">Godine</string>
+    <string name="startingheight">170</string>
+    <string name="startingweight">55</string>
+    <string name="startingage">22</string>
+    <string name="todo">TODO</string>
+    <string name="height">Visina</string>
+    <string name="calculate_your_bmi">Izračunaj svoj BMI</string>
+    <string name="weight">Težina</string>
+    <string name="male">Muško</string>
+
+</resources>
